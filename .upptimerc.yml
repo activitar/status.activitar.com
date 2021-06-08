@@ -9,12 +9,15 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Activitar Management Platform
     url: https://new.activitar.com
+    maxResponseTime: 2000
 
   - name: Activitar Portal
     url: https://activitar.com
+    maxResponseTime: 3000
 
   - name: Activitar Corporate
     url: https://www.activitar.net
+    maxResponseTime: 2000
 
 
 status-website:
