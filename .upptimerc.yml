@@ -8,7 +8,7 @@ assignees: # Users to assign downtime issues (optional)
   - janineab
 sites:
   - name: Activitar Management Platform
-    ulr: https://new.activitar.com
+    url: https://new.activitar.com
 
   - name: Activitar Portal
     url: https://activitar.com
@@ -23,7 +23,7 @@ status-website:
   cname: status.activitar.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.activitar.net/assets/img/logo_no_slogan.png
-  name: Activitar
+  name: Activitar Status
   introTitle: "Status Page for Activitar, Africa's Leading Adventure Management Platform"
   introMessage: The Activitar team does its best to keep the Activitar platform operational 24/7, 365. But when technical issues do arise, we think our customers deserve clear, transparent communication so they can maintain trust in our service and our team. Notices will be posted here when we re-route traffic, upgrade hardware, or in the case where our services are inaccessible. If you are experiencing issues and do not see a notice posted, please email support@activitar.com for assistance.
   navbar:
