@@ -28,9 +28,9 @@ status-website:
   cname: status.activitar.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.activitar.net/assets/img/logo_no_slogan.png
-  name:
+  name: ""
   introTitle: "Activitar, Africa's Leading Adventure Management Platform"
-  introMessage: The Activitar team does its best to keep the platform operational 24/7, 365. But when technical issues do arise, we think our customers deserve clear, transparent communication so they can maintain trust in our service and our team. Notices will be posted here when we re-route traffic, upgrade hardware, or in the case where our services are inaccessible. If you are experiencing issues and do not see a notice posted, please email support@activitar.com for assistance.
+  introMessage: The Activitar team does its best to keep the platform operational. But when technical issues do arise, we think our customers deserve clear, transparent communication so they can maintain trust in our service and our team. Notices will be posted here when we re-route traffic, upgrade hardware, or in the case where our services are inaccessible. If you are experiencing issues and do not see a notice posted, please email support@activitar.com for assistance.
   navbar:
     - title: Status
       href: /
