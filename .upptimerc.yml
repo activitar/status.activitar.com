@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: activitar # Your GitHub organization or username, where this repository lives
+repo: status.activitar.com # The name of this repository
 
+assignees: # Users to assign downtime issues (optional)
+  - chriscz
+  - alexleid
+  - janineab
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Activitar Management Platform
+    ulr: https://new.activitar.com
+
+  - name: Activitar Portal
+    url: https://activitar.com
+
+  - name: Activitar Corporate
+    url: https://www.activitar.net
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.activitar.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.activitar.net/assets/img/logo_no_slogan.png
+  name: Activitar
+  introTitle: "Status Page for Activitar, Africa's Leading Adventure Management Platform"
+  introMessage: The Activitar team does its best to keep the Activitar platform operational 24/7, 365. But when technical issues do arise, we think our customers deserve clear, transparent communication so they can maintain trust in our service and our team. Notices will be posted here when we re-route traffic, upgrade hardware, or in the case where our services are inaccessible. If you are experiencing issues and do not see a notice posted, please email support@activitar.com for assistance.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Activitar Management System
+      href: https://new.activitar.com
+    - title: Activitar Portal
+      href: https://activitar.com
+    - title: Activitar Corporate
+      href: https://www.activitar.net
+      #    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
