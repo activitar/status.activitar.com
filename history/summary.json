@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 646,
-    "timeWeek": 603,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "time": 630,
+    "timeDay": 634,
+    "timeWeek": 615,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/activitar.com",
     "slug": "activitar-portal",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1173,
-    "timeDay": 1144,
-    "timeWeek": 1170,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1168,
+    "timeDay": 1078,
+    "timeWeek": 1164,
+    "timeMonth": 1168,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2021-06-15": 11
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 247,
-    "timeWeek": 237,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 242,
+    "timeDay": 272,
+    "timeWeek": 235,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   }
 ]
