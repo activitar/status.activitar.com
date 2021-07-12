@@ -22,9 +22,9 @@
     "url": "https://activitar.com",
     "icon": "https://favicons.githubusercontent.com/activitar.com",
     "slug": "activitar-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 1188,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2021-07-12": 0,
       "2021-06-15": 11
     }
   },
