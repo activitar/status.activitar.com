@@ -4,9 +4,9 @@
     "url": "https://new.activitar.com",
     "icon": "https://favicons.githubusercontent.com/new.activitar.com",
     "slug": "activitar-management-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 610,
     "timeMonth": 590,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-18": 0
+    }
   },
   {
     "name": "Activitar Portal",
     "url": "https://activitar.com",
     "icon": "https://favicons.githubusercontent.com/activitar.com",
     "slug": "activitar-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
@@ -34,6 +36,7 @@
     "timeMonth": 1181,
     "timeYear": 1179,
     "dailyMinutesDown": {
+      "2021-07-18": 0,
       "2021-07-12": 6,
       "2021-06-15": 11
     }
