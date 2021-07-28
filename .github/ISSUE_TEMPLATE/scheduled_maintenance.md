@@ -1,6 +1,6 @@
 ---
 name: Scheduled Maintenance
-about: Create a report to help us improve
+about: Schedule downtime for maintenance
 title: Activitar Scheduled Maintenance
 labels: maintenance
 assignees:
