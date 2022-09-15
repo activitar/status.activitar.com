@@ -61,19 +61,19 @@
     "url": "https://www.activitar.net",
     "icon": "https://favicons.githubusercontent.com/www.activitar.net",
     "slug": "activitar-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 180,
-    "timeWeek": 264,
-    "timeMonth": 285,
+    "timeDay": 238,
+    "timeWeek": 268,
+    "timeMonth": 286,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 24
     }
   }
 ]
