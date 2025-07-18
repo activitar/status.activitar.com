@@ -11,17 +11,16 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 649,
-    "timeDay": 545,
-    "timeWeek": 614,
-    "timeMonth": 626,
+    "timeDay": 546,
+    "timeWeek": 605,
+    "timeMonth": 618,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2025-06-30": 5,
       "2025-04-14": 13,
       "2025-03-02": 20,
       "2024-09-03": 5,
-      "2024-07-29": 10,
-      "2024-07-18": 5
+      "2024-07-29": 10
     }
   },
   {
@@ -31,14 +30,14 @@
     "slug": "activitar-portal",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1609,
-    "timeDay": 1575,
-    "timeWeek": 1645,
-    "timeMonth": 1757,
+    "time": 1608,
+    "timeDay": 1409,
+    "timeWeek": 1604,
+    "timeMonth": 1747,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2025-07-16": 8,
@@ -50,8 +49,7 @@
       "2025-03-02": 20,
       "2025-01-11": 10,
       "2024-09-26": 12,
-      "2024-09-03": 3,
-      "2024-07-18": 4
+      "2024-09-03": 3
     }
   },
   {
@@ -66,10 +64,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 145,
-    "timeWeek": 302,
-    "timeMonth": 326,
-    "timeYear": 316,
+    "timeDay": 322,
+    "timeWeek": 305,
+    "timeMonth": 323,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   }
 ]
