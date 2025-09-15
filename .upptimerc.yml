@@ -5,7 +5,6 @@ repo: status.activitar.com # The name of this repository
 assignees: # Users to assign downtime issues (optional)
   - chriscz
   - alexleid
-  - janineab
 sites:
   - name: Activitar Management Platform
     url: https://new.activitar.com
@@ -13,7 +12,7 @@ sites:
 
   - name: Activitar Portal
     url: https://activitar.com
-    maxResponseTime: 3000
+    maxResponseTime: 12000
 
   - name: Activitar Corporate
     url: https://www.activitar.net
