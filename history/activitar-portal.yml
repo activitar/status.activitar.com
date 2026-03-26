@@ -1,7 +1,7 @@
 url: https://activitar.com
-status: degraded
-code: 500
-responseTime: 21000
-lastUpdated: 2026-03-26T13:38:42.065Z
+status: up
+code: 200
+responseTime: 3222
+lastUpdated: 2026-03-26T14:10:55.930Z
 startTime: 2021-06-08T12:30:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
