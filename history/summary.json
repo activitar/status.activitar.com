@@ -4,16 +4,16 @@
     "url": "https://new.activitar.com",
     "icon": "https://icons.duckduckgo.com/ip3/new.activitar.com.ico",
     "slug": "activitar-management-platform",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "92.55%",
     "time": 699,
-    "timeDay": 1339,
-    "timeWeek": 847,
-    "timeMonth": 690,
+    "timeDay": 1080,
+    "timeWeek": 815,
+    "timeMonth": 686,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2026-01-28": 35,
@@ -50,7 +50,8 @@
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 922,
-      "2026-05-07": 59
+      "2026-05-07": 59,
+      "2026-10-05": 13
     }
   },
   {
