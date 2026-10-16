@@ -59,17 +59,17 @@
     "url": "https://activitar.com",
     "icon": "https://icons.duckduckgo.com/ip3/activitar.com.ico",
     "slug": "activitar-portal",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "57.00%",
+    "uptimeDay": "57.01%",
     "uptimeWeek": "8.14%",
-    "uptimeMonth": "76.13%",
+    "uptimeMonth": "76.09%",
     "uptimeYear": "97.96%",
-    "time": 2095,
-    "timeDay": 8693,
-    "timeWeek": 3305,
-    "timeMonth": 2044,
-    "timeYear": 1767,
+    "time": 2115,
+    "timeDay": 9421,
+    "timeWeek": 4135,
+    "timeMonth": 2325,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2026-01-28": 37,
       "2026-02-25": 12,
@@ -82,7 +82,7 @@
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1053,
-      "2026-10-16": 0
+      "2026-10-16": 16
     }
   },
   {
