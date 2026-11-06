@@ -4,15 +4,15 @@
     "url": "https://new.activitar.com",
     "icon": "https://icons.duckduckgo.com/ip3/new.activitar.com.ico",
     "slug": "activitar-management-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "92.55%",
     "time": 706,
-    "timeDay": 635,
-    "timeWeek": 674,
+    "timeDay": 681,
+    "timeWeek": 681,
     "timeMonth": 717,
     "timeYear": 733,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
       "2026-03-05": 922,
       "2026-05-07": 59,
       "2026-10-05": 13,
-      "2026-11-06": 0
+      "2026-11-06": 5
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://activitar.com",
     "icon": "https://icons.duckduckgo.com/ip3/activitar.com.ico",
     "slug": "activitar-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.07%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "76.06%",
     "uptimeYear": "97.96%",
-    "time": 2281,
-    "timeDay": 6161,
-    "timeWeek": 6237,
-    "timeMonth": 5259,
-    "timeYear": 2091,
+    "time": 2279,
+    "timeDay": 6189,
+    "timeWeek": 6235,
+    "timeMonth": 5284,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2026-01-28": 37,
       "2026-02-25": 12,
@@ -84,7 +84,7 @@
       "2026-10-09": 1440,
       "2026-10-08": 1053,
       "2026-10-16": 24,
-      "2026-11-06": 0
+      "2026-11-06": 4
     }
   },
   {
